@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MortisDev 
+- 👀 I’m interested in Android app development, web development
+- 🌱 I’m currently learning C, Python, Html, CSS, JS, C++, C#, Java, Ruby, Golang, Pascal, PHP, VB.NET
+- 💞️ I’m looking to collaborate on App development
+- 📫 How to reach me: Discord = MortisDev#9646
